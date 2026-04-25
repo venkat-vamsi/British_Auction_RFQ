@@ -1,0 +1,16 @@
+# --- Frontend (React / Vite / Node) ---
+frontend/node_modules/
+
+# --- Backend (Spring Boot / Maven) ---
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/*.class
+backend/**/*.class
+
+# --- IDE / System Files ---
+.idea/
+.vscode/
+*.swp
+*.log
+.DS_Store
+Thumbs.db
